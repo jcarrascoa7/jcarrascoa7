@@ -1,10 +1,10 @@
-### Hi there I'm José Tomás Carrasco but you can call me Carra! 👋
+# Hi there I'm José Tomás Carrasco but you can call me Carra! 👋
 
 - 🔭 I’m currently working on [WEWOD](https://www.wewod.tk/)
-- 🌱 I’m currently learning C++, C#, NodeJS and React
+- 🌱 Currently learning C++, C#, NodeJS and React
 
 ---
-
+## My Stats :bar_chart:
 <div align="center">
   <a href="https://github.com/jcarrascoa7">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=jcarrascoa7&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
