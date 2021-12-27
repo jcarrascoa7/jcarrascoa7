@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning C++, C#, NodeJS and React
 
 ![José Tomás Carrasco GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarrascoa7&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrascoa7&layout=compact)](https://github.com/jcarrascoa7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrascoa7&layout=compact&theme=dark)](https://github.com/jcarrascoa7/github-readme-stats)
