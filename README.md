@@ -1,7 +1,7 @@
 # Hi there I'm José Tomás Carrasco but you can call me Carra! 👋
 
 - 🔭 I’m currently working on [WEWOD](https://www.wewod.tk/)
-- 🌱 Currently learning C++, C#, NodeJS and React
+- 🌱 Currently learning C++, C#, NodeJS, React and game developing with Unity
 
 ---
 ## My Stats :bar_chart:
