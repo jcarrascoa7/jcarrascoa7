@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I'm studying software engineering at the Pontific Catholic University of Chile (PUC).
 - 💻 I've worked in some projects like [WEWOD](https://www.wewod.tk/)
-- 🎮 Currently learning VR development with Unity.
+- 🎮 Currently learning VR and MR development with Unity.
 
 ---
 ## My Stats :bar_chart:
