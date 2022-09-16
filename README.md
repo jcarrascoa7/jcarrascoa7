@@ -2,8 +2,8 @@
 
 - 👨‍🎓 I'm studying Software Engineering and a MSc in AI and Inmersive Experiences at the Pontific Catholic University of Chile (PUC).
 - :muscle: I've worked in some projects like [WEWOD](https://www.wewod.tk/)
-- 🎮 Currently learning VR and MR development with Unity.
 - :computer: Now working as VR and MR developer for EVILAB, an I+D+i lab in [CIPYCS](https://www.cipycs.cl/)
+- :mag_right: Currently researching and developing new VR tools for [SEIS-Lab](http://www.seislab.cl/)
 
 ---
 ## My Stats :bar_chart:
