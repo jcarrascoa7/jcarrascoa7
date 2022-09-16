@@ -1,8 +1,9 @@
 ## Hi there I'm Carra! 👋
 
-- 👨‍🎓 I'm studying software engineering at the Pontific Catholic University of Chile (PUC).
-- 💻 I've worked in some projects like [WEWOD](https://www.wewod.tk/)
+- 👨‍🎓 I'm studying Software Engineering and a MSc in AI and Inmersive Experiences at the Pontific Catholic University of Chile (PUC).
+- :muscle: I've worked in some projects like [WEWOD](https://www.wewod.tk/)
 - 🎮 Currently learning VR and MR development with Unity.
+- :computer: Now working as VR and MR developer for EVILAB, an I+D+i in [CIPYCS](https://www.cipycs.cl/)
 
 ---
 ## My Stats :bar_chart:
