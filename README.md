@@ -6,14 +6,6 @@
 - :mag_right: Currently researching and developing new VR tools for [SEIS-Lab](http://www.seislab.cl/)
 
 ---
-## My Stats :bar_chart:
-<div align="center">
-  <a href="https://github.com/jcarrascoa7">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=jcarrascoa7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarrascoa7&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
 ## Languages 🧮
 ![Ruby](https://img.shields.io/badge/ruby-222831?style=for-the-badge&logo=ruby&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-222831?style=for-the-badge&logo=python&logoColor=ffffff)
