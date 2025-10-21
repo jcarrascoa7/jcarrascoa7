@@ -1,6 +1,6 @@
 ## Hi there I'm Carra! 👋
 
-- 👨‍🎓 I'm a Software Engineer and a MSc in AI and Inmersive Experiences from the Pontific Catholic University of Chile (PUC).
+- 👨‍🎓 I'm a Software Engineer and MSc in AI and Inmersive Experiences from the Pontific Catholic University of Chile (PUC).
 - :muscle: While studying I've worked in some projects like [WEWOD](https://www.wewod.tk/)
 - :computer: Now working as frontend, backend and XR developer for EVILAB, an I+D+i lab in [CIPYCS](https://www.cipycs.cl/)
 - :mag_right: I've researched and developed new VR tools for [SEIS-Lab](http://www.seislab.cl/)
