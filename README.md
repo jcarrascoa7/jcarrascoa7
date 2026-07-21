@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm a Software Engineer and MSc in AI and Inmersive Experiences from the Pontific Catholic University of Chile (PUC).
 - :computer: I've worked as frontend, backend and XR developer for EVILAB, an I+D+i lab in [CIPYCS](https://www.cipycs.cl/)
 - :mag_right: I've researched and developed new VR tools for [SEIS-Lab](http://www.seislab.cl/)
-- 🟦 I've worked as a Software Engineer in companies such as [Buk](https://www.buk.cl/) and I am currently working at [Buda](www.buda.com).
+- 🟦 I've worked as a Software Engineer in companies such as [Buk](https://www.buk.cl/) and [Buda.com](www.buda.com).
 
 ---
 ## Languages 🧮
